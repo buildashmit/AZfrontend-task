@@ -3,13 +3,19 @@
 Build 90% same as given in the figma design with all the necessary functionalities.
 
 # run on your local machine
-1. clone the repo.
-2. change file directory through command prompt
-   cd az-landingpage (if you are not in this particular path)
+clone the repo.
+### change file directory through command prompt
+   ```bash
+cd az-landingpage
+```
+(if you are not in this particular path)
 
-3. install dependencies
-   npm install
-   
+### install dependencies
+  ```bash
+npm install
+```
 
-5. run the react app
-   npm run dev
+### run the react app
+   ```bash
+npm run dev
+```
