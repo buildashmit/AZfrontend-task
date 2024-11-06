@@ -120,7 +120,7 @@ const MainContent = () => {
               </div>
 
               <div className="resourse">
-              <p><VscFiles className="play-icon"/> Combined Resourse <span className="resourse-timestamp"><LuClock4 /> 00:40:00</span></p>
+              <p><VscFiles className="play-icon"/> Combined Resourse 1<span className="resourse-timestamp"><LuClock4 /> 00:40:00</span></p>
               <hr className='line'></hr>
               </div>
               </div>
