@@ -9,7 +9,7 @@ Build 90% same as given in the figma design with all the necessary functionaliti
 
 3. install dependencies
 ##
-<tab><tab>code/npm install
+<tab><tab>npm install
    
 
 5. run the react app
