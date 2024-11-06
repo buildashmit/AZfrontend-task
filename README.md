@@ -8,7 +8,6 @@ Build 90% same as given in the figma design with all the necessary functionaliti
    cd az-landingpage (if you are not in this particular path)
 
 3. install dependencies
-##
    npm install
    
 
