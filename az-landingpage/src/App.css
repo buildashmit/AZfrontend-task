@@ -1,0 +1,18 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  flex: 1;
+  margin-left: 200px; /* Offset by the width of the sidebar */
+}
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    margin-left: 0; /* Remove offset for smaller screens */
+  }
+}

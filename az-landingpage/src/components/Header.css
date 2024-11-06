@@ -1,0 +1,35 @@
+.header {
+    background-color: #eff8ef;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    margin-left: 200px; 
+  }
+  
+  .header-content {
+    display: flex;
+    align-items: end;
+    margin-left: auto;
+  }
+  
+  .notification-icon {
+    font-size: 1.5rem;
+    cursor: pointer;
+    margin-right: 2rem; 
+    color: rgb(126, 188, 195);
+  }
+  
+  .profile-icon {
+    font-size: 1.9rem;
+    cursor: pointer;
+    color: rgb(126, 188, 195);
+  }
+  
+  @media (max-width: 768px) {
+    .header {
+      margin-left: 0; 
+      flex-direction: column;
+    }
+  }
